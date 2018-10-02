@@ -1,8 +1,1 @@
-7
-empty
-push 2
-size
-push 5
-back
-push 6
-empty
+7 4
