@@ -54,7 +54,7 @@ public:
 };
 
 int main(){
-    freopen("input.txt", "r", stdin);
+    // freopen("input.txt", "r", stdin);
     int N,M,NN;
     cin>>N>>M;
     NN = N;
